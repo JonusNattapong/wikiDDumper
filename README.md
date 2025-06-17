@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WikiDumper Demo](asset/image.png)
+![WikiDumper](asset/WikiDumper.png)
 
 **เครื่องมือที่ทันสมัยและครบครันสำหรับสกัดข้อความจาก Wikipedia dump files**
 
