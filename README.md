@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![WikiDumper](asset/WikiDumper.png)
+<img src="asset/WikiDumper.png" alt="WikiDumper Logo" width="400" height="200">
 
 **เครื่องมือที่ทันสมัยและครบครันสำหรับสกัดข้อความจาก Wikipedia dump files**
 
