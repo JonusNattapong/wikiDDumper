@@ -11,7 +11,7 @@
 ![WikiDumper](https://img.shields.io/badge/📚_WikiDumper-Thai_Wikipedia_Extractor-2ea44f?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Formats](https://img.shields.io/badge/Formats-JSONL|CSV|Parquet|HF-orange?style=for-the-badge)
 
@@ -590,6 +590,29 @@ python3 WikiExtractor.py -o output_dir thwiki-20250601-pages-articles-multistrea
 
 หากพบปัญหาหรือต้องการความช่วยเหลือ กรุณาสร้าง issue ใน GitHub repository นี้
 
+
+---
+
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** License.
+
+[![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+**สิทธิ์การใช้งาน:**
+- ✅ **Attribution** - ต้องระบุที่มาของผลงาน
+- ❌ **NonCommercial** - ห้ามใช้เพื่อการค้า
+- ❌ **NoDerivatives** - ห้ามดัดแปลงหรือสร้างงานต่อยอด
+
+### Copyright Notice
+
+```
+Copyright (c) 2024 wikiDDumper
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+You should have received a copy of the license along with this work. 
+If not, see <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+```
 
 ---
 
